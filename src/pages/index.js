@@ -13,7 +13,7 @@ export default function Home({ data }) {
         <div>
           <h2>Design</h2>
           <h3>Design & Develop</h3>
-          <p>UX designer & web developer based in Portland, Oregon</p>
+          <p>UX designer & web developer based in Oregon</p>
           <Link className={styles.btn} to="/projects">
             My Portfolio Projects
           </Link>
