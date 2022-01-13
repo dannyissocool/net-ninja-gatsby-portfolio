@@ -1,1 +1,1 @@
-Tutorial for building a portfolio website from the Youtube channel The Net Ninja. 
+Tutorial for building a portfolio website using GatsbyJS from the Youtube channel The Net Ninja. 
